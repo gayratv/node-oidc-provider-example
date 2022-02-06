@@ -13,6 +13,12 @@ cd my-provider
 heroku create --addons securekey,heroku-redis:hobby-dev
 ```
 
+
+https://secret-brushlands-89186.herokuapp.com/ 
+
+https://git.heroku.com/secret-brushlands-89186.git
+
+
 3) Enable (experimental) runtime-dyno-metadata
 ```bash
 heroku labs:enable runtime-dyno-metadata
